@@ -1,0 +1,77 @@
+.post:first-child {
+  border-top: none;
+}
+.post {
+  background-color: #fff;
+  border-bottom: 1px solid #696969;
+  border-top: 1px solid #696969;
+  border-radius: 1px;
+  padding: 2px;
+  padding-bottom: 0px;
+}
+.post .post-head {
+  display: block;
+  width: 100%;
+}
+.post .post-head .user-img-xs {
+  float: left;
+  width: 20%;
+}
+.post .post-head .post-head-data {
+  display: inline-block;
+  height: 50px;
+  width: 78.5%;
+}
+.post .post-head .post-date {
+  color: #696969;
+  float: right;
+  clear: both;
+  margin: 2px;
+}
+.post .post-head .post-data {
+  margin: 2.5px 4px;
+}
+.post .post-head .fa-user-circle-o {
+  color: #AE000A;
+}
+.post .post-head .post-stars {
+  color: #FFB22E;
+  margin-left: 4px;
+}
+.post .post-head .fa-file-text {
+  color: green;
+  padding-left: 6px;
+  text-align: right;
+}
+.post .post-head .fa-clock-o {
+  color: blue;
+  padding-left: 6px;
+  text-align: right;
+}
+
+.post .post-body {
+  padding: 8px;
+  padding-top: 0px;
+  margin-top: 0px;
+}
+.post .post-body .post-theme {
+  clear: left;
+  float: left;
+  margin: 0px;
+}
+.post .post-body .post-title {
+  clear: both;
+  font-weight: bold;
+  margin: 0px 0px;
+  padding: 8px;
+  width: 100%;
+  text-align: center;
+}
+.post .post-body .post-subtitle {
+  text-align: center;
+}
+
+
+
+
+

@@ -1,0 +1,43 @@
+.chat {
+  /*padding: 5px;*/
+}
+.chat .recent-chat {
+ background-color: #00A7FF;
+}
+.chat .recent-chat .tag {
+  background-color: #fff;
+  border: 2px solid #007AFF;
+  border-bottom-color: #fff;
+  color: #303030;
+  float: left;
+  font-size: 20px;
+  font-weight: bold;
+  height: 34px;
+  line-height: 28px;
+  margin-bottom: 0px;
+  margin-left: 8px;
+  margin-top: -32px;
+  text-align: center;
+  width: 60%;
+}
+.chat .recent-chat .num {
+  background-color: #00A7FF;
+  border: 2px solid #007AFF;
+  border-bottom-color: #00A7FF;
+  color: #fff;
+  float: right;
+  font-weight: bold;
+  margin-right: 8px;
+  margin-top: -28px;
+  padding: 1px 10px;
+}
+.chat .recent-chat .chat-list-inline {
+  border-top: 2px solid #007AFF;
+  margin-top: 48px;
+  width: 100%;
+  z-index: -1;
+}
+
+
+
+

@@ -1,0 +1,72 @@
+body {
+ background-color: #FFF;
+}
+
+.app-body {
+  margin-top: 77px;
+  padding-bottom: 40px;
+  position: absolute;
+  width: 100%;
+}
+.coz-input {
+  background-color: #eee;
+  border-radius: 0px;
+  border: 1px solid #303030;
+  border-bottom: 4px solid #B60622;
+}
+textarea.coz-input {
+  height: 110px;
+}
+.coz-input:hover {
+  border-color: #B60622;
+}
+.coz-btn {
+  border-radius: 1px;
+  border: 1px solid #303030;
+  border-bottom: 4px solid #303030;
+  margin: 8px 0px;
+  width: 100%;
+}
+.user-img-xs {
+  background-color: #eee;
+  /*border: 1px solid #303030;*/
+  height: 50px;
+  line-height: 21px;
+  margin: 2px;
+  text-align: center;
+  width: 100%;
+}
+.pl-alert .modal-content {
+  background-color: #454545;
+  border: 1px solid #696969;
+  border-radius: 2px;
+  padding: 0px 6px;
+  padding-bottom: 6px;
+}
+.pl-alert .coz-modal-header {
+  padding: 10px 10px;
+  /*border: 1px solid red;*/
+}
+.pl-alert .coz-modal-header .btn {
+  border: 1px solid #696969;
+  border-radius: 10px;
+  border-top-left-radius: 0px;
+  border-top-right-radius: 0px;
+  margin-top: -11px;
+}
+.pl-alert .coz-modal-header .btn .fa {
+  padding-left: 8px;
+}
+.pl-alert .coz-modal-header .btn.stick {
+  float: right;
+}
+.pl-alert .modal-body {
+  background-color: #fff;
+  border: 1px solid #696969;
+  padding: 0px;
+}
+
+
+
+
+

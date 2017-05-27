@@ -1,0 +1,35 @@
+.perfil-nav {
+  margin-bottom: 20px;
+}
+.perfil-nav .nav-item {
+  background-color: #fff;
+  height: 68px;
+  line-height: 26px;
+  text-align: center;
+  width: 25%;
+}
+.perfil-nav .nav-item.active .btn {
+  color: #B60622;
+}
+.perfil-nav .nav-item.active a {
+  color: #fff;
+  padding: 0px;
+  text-decoration: none;
+}
+.perfil-nav .nav-item a .fa {
+  display: block;
+  padding: 8px;
+  padding-left: 1px;
+}
+.perfil-nav .nav-item .btn {
+  color: #303030;
+  border: none;
+  border-radius: 0px;
+  margin: 0px;
+  text-align: center;
+  width: 100%;
+}
+
+
+
+

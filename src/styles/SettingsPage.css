@@ -1,0 +1,30 @@
+.settings {
+
+}
+.settings-list {
+  background-color: #eee;
+  list-style-type: none;
+  padding: 0px;
+}
+.settings-list li {
+  border-bottom: 1px solid #303030;
+  height: 48px;
+  /*font-weight: bold;*/
+  font-family: monospace;
+  font-size: 20px;
+  line-height: 36px;
+  padding: 4px;
+  padding-left: 8px;
+  width: 100%;
+}
+.settings > p {
+  font-weight: bold;
+  padding: 28px;
+  padding-top: 20px;
+  text-align: center;
+}
+
+
+
+
+

@@ -1,0 +1,73 @@
+.login-holder {
+  /*background-color: #696969;
+  border: 2px solid black;*/
+}
+.login-holder .logo {
+  background-color: #303030;
+  border-bottom: 2px solid white;
+  box-shadow: 0px 2px 10px 2px black;
+  color: white;
+  font-size: 40px;
+  font-weight: bold;
+  line-height: 50px;
+  margin-bottom: 20px;
+  /*outline: 2px solid #303030;*/
+  padding: 5px 0px;
+  text-align: center;
+  width: 100%;
+}
+.login-holder .logo span {
+  color: #eee;
+  font-size: 10px;
+  float: right;
+  line-height: 14px;
+  margin-right: 5px;
+}
+.login-holder .logo img {
+  background-color: black;
+  border: 1px solid #fff;
+  /*box-shadow: 0px 4px 4px 1px black;*/
+  float: left;
+  height: 45px;
+  margin: 1px 6px;
+  margin-right: -20px;
+  padding: 5px;
+  width: 57px;
+}
+.login-holder .tag {
+  border-bottom: 1px solid #303030;
+  padding-bottom: 4px;
+  text-align: center;
+}
+.login-holder form {
+  margin-top: 10px;
+}
+.login-holder label {
+  color: #303030;
+  margin-bottom: -5px;
+  margin-top: 10px;
+}
+.login-holder .show-pass {
+  
+  border: 2px solid #B60622;
+  border-bottom-width: 4px;
+  height: 54px;
+  line-height: 36px;
+  margin-left: -16px;
+  
+  padding: 0px;
+  text-align: center;
+}
+.login-holder .show-pass span {
+  /*border: 1px solid blue;*/
+  font-size: 24px;
+  
+}
+.login-holder .show-pass p {
+  /*border: 1px solid blue;*/
+  margin-top: -20px;
+  height: 0px;
+}
+
+
+

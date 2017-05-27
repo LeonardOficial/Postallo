@@ -1,0 +1,27 @@
+.posts-page .post {
+  padding-bottom: 60px;
+}
+.post-holder {
+  padding-top: 36px;
+}
+.post-holder .btn.see-full {
+  background-color: #eee;
+  border-radius: 0px;
+  float: left;
+  font-weight: bold;
+  margin-left: -1%;
+  margin-top: -48px;
+  width: 78%;
+}
+.post-holder .btn:last-child {
+  border-radius: 0px;
+  float: right;
+  margin-top: -48px;
+  width: 20%;
+}
+
+
+
+
+
+

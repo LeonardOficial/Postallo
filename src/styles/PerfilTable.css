@@ -1,0 +1,74 @@
+.perfil-table {
+  width: 100%;
+}
+.perfil-table .table-row {
+  margin-top: 8px;
+  padding: 0px 4px;
+  width: 100%;
+}
+.perfil-table .field-edit {
+  background-color: #B60622;
+  border: 1px solid #B60622;
+  display: inline-block;
+  float: right;
+  height: 40px;
+  padding: 1px 0px;
+  width: 30%;
+}
+.perfil-table .field-edit button {
+  background-color: #B60622;
+  color: #fff;
+  border: none;
+  border-radius: 0px;
+  height: 36px;
+  margin-left: -.6%;
+  text-align: left;
+  width: 100%;
+}
+.perfil-table .field-edit button .fa {
+  margin-left: -12px;
+  margin-right: 8%;
+}
+.perfil-table .field-edit button .tag {
+  font-weight: bold;
+}
+.perfil-table .field-body {
+  /*background-color: #eee;*/
+  border: 1px solid #B60622;
+  display: inline-block;
+  line-height: 38px;
+  /*padding-left: 5px;*/
+  width: 70%;
+}
+.perfil-table .field-body span {
+
+  padding: 0px 10px;
+}
+.perfil-table .field-body .form-control {
+  border-radius: 0px;
+  width: 100%;
+}
+.perfil-table .field-body textarea {
+  height: 200px;
+}
+.perfil-table .full-row .field-edit {
+  padding: 1px;
+  width: 100%;
+}
+.perfil-table .full-row .field-edit button {
+  margin-left: 0px;
+}
+.perfil-table .full-row .field-body {
+  line-height: 22px;
+  margin-top: 0px;
+  padding: 4px;
+  width: 100%;
+}
+
+
+
+
+
+
+
+

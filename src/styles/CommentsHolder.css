@@ -1,0 +1,41 @@
+.comments-holder {
+  background-color: #fff;
+  border-top: 1px solid #696969;
+}
+.media {
+  border: 1px solid #eee;
+  border-bottom: none;
+  padding: 4px 0px;
+}
+.media a {
+  width: 20%;
+}
+.media .media-object {
+  height: 55px;
+}
+.media .media-heading {
+  font-size: 16px;
+  margin-top: 4px;
+}
+.media .media-heading .fa {
+  color: #AE000A;
+  margin-right: 4px;
+}
+.media .media-body {
+  /*border: 1px solid blue;*/
+  padding-left: 6px;
+}
+.comment-input {
+  /*border: 1px solid blue;*/
+}
+.comment-input textarea {
+  border-radius: 0px;
+}
+.comment-input .btn {
+  border-radius: 0px;
+}
+
+
+
+
+

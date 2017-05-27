@@ -1,0 +1,38 @@
+
+.full-post .social-actions {
+  border: 1px solid #fff;
+  list-style-type: none;
+  margin: 0px;
+  margin-top: -1px;
+  padding: 0px;
+}
+.full-post .social-actions .fa {
+  display: block;
+}
+.full-post .social-actions .fa-star {
+  color: #FFB22E;
+}
+.full-post .social-actions li {
+  border: none;
+  display: inline-block;
+  text-align: center;
+  width: 33.3%;
+}
+.full-post .social-actions:first-child {
+  width: 35%;
+}
+.full-post .social-actions:last-child {
+  width: 35%;
+}
+.full-post .social-actions li .btn {
+  border: none;
+  border-radius: 0px;
+  padding-bottom: 6px;
+  padding-top: 8px;
+  width: 100%;
+}
+
+
+
+
+

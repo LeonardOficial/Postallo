@@ -1,0 +1,62 @@
+
+.main-menu {
+  background-color: #303030;
+  color: White;
+  font-weight: bold;
+  height: 50px;
+  padding: 7px;
+  position: fixed;
+  overflow: hidden;
+  width: 100%;
+  z-index: 101;
+}
+.main-menu > .menu-holder {
+  width: 100%;
+}
+.main-menu > .menu-holder a {
+  border: 1px solid lightGray;
+  border-radius: 4px;
+  color: White;
+  display: inline-block;
+  font-family: monospace;
+  font-size: 20px;
+  height: 38px;
+  letter-spacing: 2px;
+  line-height: 36px;
+  padding: 0 6px 0 8px;
+}
+.main-menu .menu-holder button {
+  background-color: #B60622;
+  border-color: #696969;
+  border-radius: 2px;
+  color: #fff;
+  float: right;
+  text-align: center;
+  width: 15%;
+}
+.main-menu .search-holder {
+  height: 35px;
+  width: 100%;
+}
+.main-menu .search-holder .input-group {
+  float: right;
+  width: 85%;
+}
+.main-menu .search-holder .input-group input {
+  background-color: #E9E9E9;
+  border-top-left-radius: 2px;
+  border-bottom-left-radius: 2px;
+}
+.main-menu .search-holder .input-group input,
+.main-menu .search-holder .input-group button {
+  border-color: LightGray;
+}
+.main-menu .search-holder > button {
+  border-radius: 2px;
+  margin-top: 2px;
+  padding: 6px;
+  width: 12%;
+}
+
+
+

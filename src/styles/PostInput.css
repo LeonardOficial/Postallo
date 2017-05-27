@@ -1,0 +1,79 @@
+.post-input {
+  background-color: #EBECEB;
+  border-bottom: 2px solid #454545;
+  padding: 0px 6px;
+  width: 100%;
+}
+.post-input .invalid-fields {
+}
+.post-input .invalid-fields .badge {
+  border-radius: 0px;
+  margin: 2px;
+  padding: 4px;
+}
+.post-input .post-input-type {
+  margin: 6px 0px;
+}
+.post-input .post-input-type button {
+  border-radius: 0px;
+  font-weight: bold;
+  margin: 0px .5%;
+  width: 35%;
+}
+
+.post-input .post-input-type button.active {
+  background-color: #fff;
+  border-color: red;
+  color: red;
+}
+.post-input .post-input-type button.advanced {
+  background-color: #5700AE;
+  padding: 5px;
+  width: 27%;
+}
+.post-input .post-input-per {
+  padding-top: 2px;
+}
+.post-input .coz-input {
+  background-color: #fff;
+}
+.post-input .md-input textarea {
+  border-top: none;
+  margin-top: -2px;
+}
+.post-input .md-input input {
+  border-bottom: none;
+  font-weight: bold;
+  width: 70%;
+  text-align: center;
+}
+.post-input .md-input input.title-input {
+  float: left;
+  width: 70%;
+}
+.post-input .md-input input.theme-input {
+  border-left: none;
+  width: 30%;
+}
+.post-input > .post-input-footer {
+  text-align: right;
+}
+.post-input > .post-input-footer button {
+  border: 1px solid black;
+  border-radius: 1px;
+  height: 35px;
+  margin: 5px 2px;
+  width: 15%;
+  text-align: center;
+  padding: 0px;
+
+}
+.post-input > .post-input-footer button:first-child {
+  float: left;
+  font-weight: bold;
+  font-size: 110%;
+  padding-top: 0px;
+}
+
+
+

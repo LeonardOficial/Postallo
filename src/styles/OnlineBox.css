@@ -1,0 +1,42 @@
+.online-box {
+  background-color: #303030;
+  border: 1px solid #303030;
+  border-left: none;
+  border-right: none;
+}
+.online-box .tag {
+  background-color: #eee;
+  border-bottom-right-radius: 1px;
+  color: green;
+  float: left;
+  font-weight: bold;
+  margin: 0px;
+  margin-left: -1px;
+  padding: 2px 4px;
+  text-align: center;
+  width: 24%;
+}
+.online-box .see-all {
+  background-color: lightgreen;
+  border: 1px solid #fff;
+  box-shadow: 0px 1px 2px 1px black;
+  clear: both;
+  display: inline-block;
+  float: left;
+  height: 88px;
+  line-height: 32px;
+  margin: 0px 1.5%;
+  margin-top: 8px;
+  text-align: center;
+  width: 22%;
+}
+.online-box .see-all .fa { 
+  display: block;
+  font-size: 35px;
+  padding-top: 8px;
+}
+
+
+
+
+
